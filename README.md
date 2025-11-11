@@ -114,6 +114,4 @@
   <b>💬 Open to collaborations and interesting projects!</b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BCD4&height=100&section=footer" width="100%"/>
-
 </div>
