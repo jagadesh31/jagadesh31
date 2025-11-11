@@ -89,7 +89,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=jagadesh31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jagadesh31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/>
 
 </div>
