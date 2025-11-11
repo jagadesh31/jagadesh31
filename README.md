@@ -96,13 +96,6 @@
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadesh31&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BCD4&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4" height="170em"/>
-
-</div>
-
-
-<div align="center">
 
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=jagadesh31&color=00BCD4&style=for-the-badge)
