@@ -1,36 +1,58 @@
-# Hi there! I'm Jagadesh 👋  
+<!-- Profile Header -->
+<h1 align="center">Hi there! 👋 I'm <span style="color:#00bcd4;">Jagadesh</span></h1>
 
-I'm a passionate and driven student currently pursuing my studies at the **National Institute of Technology, Tiruchirappalli (NIT Trichy)**.  
-I enjoy building full-stack applications, exploring AI and data science, and experimenting with scalable system designs.  
+<p align="center">
+  🎓 Student at <b>National Institute of Technology, Tiruchirappalli (NIT Trichy)</b> <br/>
+  💻 Passionate about full-stack development, AI, and scalable systems.
+</p>
 
 ---
 
-### 🌐 Socials
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/)  
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ComputerDangerous409/](https://www.reddit.com/user/Content-Source-8327/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/](https://www.instagram.com/jagadeshwarreddy_/)  
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.reddit.com/user/Content-Source-8327/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="https://www.instagram.com/jagadeshwarreddy_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
 ### 💻 Tech Stack
-**Languages & Libraries:**  
-C++ · Python · Pandas · NumPy
 
-**Frontend:**  
-JavaScript · React · Next.js · Tailwind CSS  
+#### 🧠 Languages & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,pandas,numpy,sklearn" />
+</p>
 
-**Backend:**  
-Node.js · Express.js · MongoDB · Firebase . Pinecone 
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind" />
+</p>
 
-**DevOps / Tools:**  
- · Docker · Nginx · Elasticsearch  
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+#### 🛠️ DevOps / Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,elasticsearch" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Jagadesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ComputerDangerous409&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerDangerous409&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagadesh31&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=radical" height="180em" />
+</p>
 
 ---
 
