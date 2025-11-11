@@ -27,7 +27,10 @@
 
 #### 🧠 Languages & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,pandas,numpy,sklearn" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 #### 🎨 Frontend
@@ -50,9 +53,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagadesh31&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=radical" height="180em" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jagadesh31&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    height="180em" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
+    height="180em" 
+  />
 </p>
+
 
 ---
 
