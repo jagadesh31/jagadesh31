@@ -94,7 +94,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/>
 
 </div>
----
 
 <div align="center">
 <p>
