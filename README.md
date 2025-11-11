@@ -96,12 +96,6 @@
 </div>
 
 <div align="center">
-
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=jagadesh31&color=00BCD4&style=for-the-badge)
-
----
-
 <p>
   <i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i><br/>
   <b>💬 Open to collaborations and interesting projects!</b>
