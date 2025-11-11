@@ -1,14 +1,18 @@
 <!-- 🌟 Profile Header with Gradient -->
+<!-- 🌟 Profile Header -->
 <div align="center">
-  
-# Hi there! 👋 I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=200&lines=Jagadesh" alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BCD4&height=120&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+👋;I'm+Jagadesh" alt="Typing SVG" />
 
 <p>
-  🎓 Student at <b>National Institute of Technology, Tiruchirappalli (NIT Trichy)</b><br/>
-  💻 Passionate about <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Scalable Systems</b><br/>
+  🎓 <b>National Institute of Technology, Tiruchirappalli (NIT Trichy)</b><br/>
+  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Building Scalable Systems<br/>
 </p>
 
 </div>
+
 
 ---
 
