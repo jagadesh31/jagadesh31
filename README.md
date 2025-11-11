@@ -6,7 +6,6 @@
 <p>
   🎓 Student at <b>National Institute of Technology, Tiruchirappalli (NIT Trichy)</b><br/>
   💻 Passionate about <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Scalable Systems</b><br/>
-  🚀 Building impactful solutions one commit at a time
 </p>
 
 </div>
