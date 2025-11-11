@@ -19,7 +19,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/N9220984335768)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Content-Source-8327/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jagadeshwarreddy_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeshwar-reddy-moola-5017ab322/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeshwar-reddy-moola-5017ab322/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jagadesh31.tech)
 
 </div>
@@ -84,6 +84,16 @@
 
 </details>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=jagadesh31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/>
+
+</div>
 ---
 
 <div align="center">
