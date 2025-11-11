@@ -1,80 +1,151 @@
-<!-- 🌟 Profile Header -->
-<h1 align="center">Hi there! 👋 I'm <span style="color:#00bcd4;">Jagadesh</span></h1>
+<!-- 🌟 Profile Header with Gradient -->
+<div align="center">
+  
+# Hi there! 👋 I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=200&lines=Jagadesh" alt="Typing SVG" />
 
-<p align="center">
-  🎓 Student at <b>National Institute of Technology, Tiruchirappalli (NIT Trichy)</b> <br/>
-  💻 Passionate about full-stack development, AI, and scalable systems.
+<p>
+  🎓 Student at <b>National Institute of Technology, Tiruchirappalli (NIT Trichy)</b><br/>
+  💻 Passionate about <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Scalable Systems</b><br/>
+  🚀 Building impactful solutions one commit at a time
 </p>
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.reddit.com/user/Content-Source-8327/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-  <a href="https://www.instagram.com/jagadeshwarreddy_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
+
+## 🌐 Connect with Me
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/N9220984335768)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Content-Source-8327/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jagadeshwarreddy_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧠 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,go" />
-</p>
+<details open>
+<summary><b>🔤 Programming Languages</b></summary>
+<br/>
 
-### 📚 Libraries & Data Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind" />
-</p>
+</details>
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
 
-### 🛠️ DevOps / Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,elasticsearch" />
-</p>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 Data Science & Machine Learning</b></summary>
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jagadesh31&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Jagadesh's%20GitHub%20Stats&cache_seconds=1800" 
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
-    height="180em"
-  />
-</p>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=jagadesh31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/>
 
-<!-- Streak stats (shows daily contributions across years) -->
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jagadesh31&theme=radical&hide_border=false" 
-    height="180em"
-  />
-</p>
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadesh31&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BCD4&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4" height="170em"/>
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=jagadesh31&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories or connect on my socials.*
+<div align="center">
+
+## 📈 Contribution Graph
+
+[![Jagadesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jagadesh31&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BCD4&line=00BCD4&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=jagadesh31&color=00BCD4&style=for-the-badge)
+
+---
+
+<p>
+  <i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i><br/>
+  <b>💬 Open to collaborations and interesting projects!</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BCD4&height=100&section=footer" width="100%"/>
+
+</div>
