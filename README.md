@@ -86,16 +86,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub stats](https://your-vercel-domain.vercel.app/api?username=jagadesh31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,issues,discussions_started,discussions_answered)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadesh31&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=C9D1D9&cache_seconds=1800" height="170em"/>
-
-</div>
-
 <div align="center">
 <p>
   <i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i><br/>
