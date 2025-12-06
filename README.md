@@ -3,10 +3,10 @@
   
 # Hi there! 👋 I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=200&lines=Jagadesh" alt="Typing SVG" />
 
-<p>
+<!-- <p>
   🎓 Student at <b>National Institute of Technology, Tiruchirappalli (NIT Trichy)</b><br/>
   💻 Passionate about <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Scalable Systems</b><br/>
-</p>
+</p> -->
 
 </div>
 
